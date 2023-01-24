@@ -5,7 +5,7 @@
     xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" 
     xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon" 
     xmlns:dxp="http://schemas.devexpress.com/winfx/2008/xaml/printing" 
-    xmlns:dxpn="clr-namespace:DevExpress.Xpf.Printing.Native;assembly=DevExpress.Xpf.Printing.v15.1" 
+    xmlns:dxpn="clr-namespace:DevExpress.Xpf.Printing.Native;assembly=DevExpress.Xpf.Printing.v14.1" 
     xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
     xmlns:sys="clr-namespace:System;assembly=mscorlib"
     xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm" x:Class="RibbonPrintPreviewDemo.MainWindow"
